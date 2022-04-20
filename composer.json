@@ -1,0 +1,10 @@
+{
+  "name": "psuet/test",
+  "type": "project",
+  "description": "Test",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.3",
+    "mpdf/mpdf": "<v8.1"
+  }
+}
